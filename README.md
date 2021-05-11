@@ -2,11 +2,14 @@
 
 https://marta-dsvendas.netlify.app/
 
+### Sobre o projeto 
+
+DSVendas é uma aplicação full stack web e mobile desenvolvida durante a semana Spring React evento promovido pela [DevSuperior - Escola de programação](https://devsuperior.com.br)
+
 ### Layout Web
 
-![Web 1](https://github.com/martaago/assets/blob/main/2021-05-09%20(2).png)
-
-![Web 2](https://github.com/martaago/assets/blob/main/2021-05-09 (5).png)
+![Web 1](https://github.com/martaago/assets/blob/main/2021-05-09%20(2).png) 
+![web 2](https://github.com/martaago/assets/blob/main/2021-05-09%20(5).png)
 
 ### Modelo conceitual
 
